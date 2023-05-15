@@ -19,7 +19,8 @@ Splunk Architecture
 
 - Configure the splunk forwarder with the splunk enterprise and send logs.
 ![VirtualBox_kali_14_05_2023_13_40_29](https://github.com/Ramya2946/Log-Anaysis-using-SIEM-Splunk/assets/123251017/23a55f3e-3ba4-4862-86ec-0e020b2b159b)
-
+![VirtualBox_kali_15_05_2023_13_26_27](https://github.com/Ramya2946/Log-Anaysis-using-SIEM-Splunk/assets/123251017/324569a3-119c-486a-9cf5-185fd235e951)
+![Screenshot (505)](https://github.com/Ramya2946/Log-Anaysis-using-SIEM-Splunk/assets/123251017/cc874f9c-2127-4bc9-aa41-cf42557c467e)
 
 ### 2. Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) >>Make sure the logs are indexing in the Splunk enterprise.
 ### • Run any network and port scanning commands from the host to the target machine. Run at least 5 to 8 commands. (If required, any tools can also be used).
